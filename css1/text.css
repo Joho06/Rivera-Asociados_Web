@@ -1,0 +1,39 @@
+.text{
+    display: block;
+    
+}
+  
+
+.img-1{
+    height: 350px;
+    width: 650px;
+    
+    margin: 50px 400px;
+    display: block;
+    box-shadow: 5px 5px 0px #ccc;
+}
+.nav{
+    text-align: center;
+}
+.link{
+    text-align: center;
+    margin-top: 50px;
+}
+.button{
+    background-color: #68757b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+.contenedor1{
+    text-align: center;
+    margin-top: 50px;
+}
+
